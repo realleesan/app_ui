@@ -17,7 +17,7 @@ flutter pub get
 flutter run
 
 # Chạy trên web
-flutter run -d chrome
+flutter run -d chrome/edge/win
 ```
 
 ## 📁 Cấu trúc Project
